@@ -1,0 +1,1 @@
+export const SEVA_OPTIONS = ["Thakorji seva", "Gauseva", "Samgri", "Gopinathji", "Gurubhet", "Shrinathji seva", "Any"];
